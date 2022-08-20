@@ -34,4 +34,4 @@ if(msg.content.toLowerCase().startsWith("n!" + "help")){
 }
 });
 
-nuke.login("MTAwNTQ5ODMzNjcyNTQzODUxNQ.G3v59h.RCjSTLNJ_L7qrePpMXyD-fMSLqbnYWZayyA640");
+nuke.login("TOKEN");
